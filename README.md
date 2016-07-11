@@ -1,0 +1,2 @@
+# pydice
+Diceroller for python
